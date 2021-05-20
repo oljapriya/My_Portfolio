@@ -17,13 +17,25 @@
   color: white;
   background: black;
 }
-
+h2, h3, h4{
+  font-family: monospace;
+}
+.display-4 {
+  font-family: monospace;
+  font-size: 55px;
+}
+span {
+  font-family:'Codystar', cursive;
+  font-size: large;
+  font-weight: bold;
+  
+}
 
 @media (min-width: 1199px) {
   .port-item {
     padding: 3em !important;
   }
-}
+
 .btn-primary:hover {
   background: #33a6cc;
 }
@@ -35,4 +47,4 @@
 }
 a {
   color: white;
-}
+}}
