@@ -9,14 +9,12 @@
   opacity: 0.8;
   cursor: pointer;
 }
-.class bg-warning {
-  background: turquoise;
-}
 
 .bg-black {
   color: white;
   background: black;
 }
+
 h2, h3, h4{
   font-family: monospace;
 }
@@ -39,6 +37,7 @@ span {
 .btn-primary:hover {
   background: #33a6cc;
 }
+
 .fas {
   padding-right: 10px;
 }
