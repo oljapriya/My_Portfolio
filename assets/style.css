@@ -9,14 +9,15 @@
   opacity: 0.8;
   cursor: pointer;
 }
+.class bg-warning {
+  background: turquoise;
+}
 
 .bg-black {
   color: white;
   background: black;
 }
-.bg-burlywood {
-  background-color: rgb(230, 154, 54);
-}
+
 
 @media (min-width: 1199px) {
   .port-item {
