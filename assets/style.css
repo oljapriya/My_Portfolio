@@ -51,10 +51,11 @@ a {
 i{
   padding-right: 10px;
 }
-hr{
+/* hr{
   padding: 15px;
-}
-p {
+} */
+.quote {
   font-family:'Codystar', cursive;
   font-weight: bolder;
+  font-size:larger;
 }
