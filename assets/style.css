@@ -36,14 +36,18 @@ span {
 
 .btn-primary:hover {
   background: #33a6cc;
+  
 }
 
-.fas {
-  padding-right: 10px;
-}
-.far {
-  padding-right: 10px;
-}
 a {
   color: white;
 }}
+.btn-outline-light {
+  border-radius: 20px;
+  background-color: #33a6cc;
+  padding: 10px;
+  
+}
+i{
+  padding-right: 10px;
+}
