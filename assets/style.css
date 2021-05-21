@@ -51,3 +51,10 @@ a {
 i{
   padding-right: 10px;
 }
+hr{
+  padding: 15px;
+}
+p {
+  font-family:'Codystar', cursive;
+  font-weight: bolder;
+}
