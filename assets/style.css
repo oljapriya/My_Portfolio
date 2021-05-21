@@ -22,11 +22,18 @@ h2, h3, h4{
   font-family: monospace;
   font-size: 55px;
 }
+.lead{
+  font-family: monospace;
+}
 span {
   font-family:'Codystar', cursive;
   font-size: large;
   font-weight: bold;
+  color: white;
   
+}
+p {
+  font-family: monospace;
 }
 
 @media (min-width: 1199px) {
