@@ -1,0 +1,69 @@
+#main-header img {
+  width: 100%;
+  height: 100%;
+}
+#main-header .port-item {
+  width: 30%;
+}
+#main-header .port-item:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.bg-black {
+  color: white;
+  background: black;
+}
+
+h2, h3, h4{
+  font-family: monospace;
+}
+.display-4 {
+  font-family: monospace;
+  font-size: 55px;
+  color: white;
+}
+.lead{
+  font-family: monospace;
+}
+span {
+  font-family:'Codystar', cursive;
+  font-size: large;
+  font-weight: bold;
+  color: white;
+  
+}
+p {
+  font-family:monospace;
+}
+
+@media (min-width: 1199px) {
+  .port-item {
+    padding: 3em !important;
+  }
+
+.btn-primary:hover {
+  background: #33a6cc;
+  
+}
+
+a {
+  color: white;
+}}
+.btn-outline-light {
+  border-radius: 20px;
+  background-color: #33a6cc;
+  padding: 10px;
+  
+}
+i{
+  padding-right: 10px;
+}
+/* hr{
+  padding: 15px;
+} */
+.quote {
+  font-family:'Codystar', cursive;
+  font-weight: bolder;
+  font-size:larger;
+}
