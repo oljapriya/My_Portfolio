@@ -27,12 +27,9 @@ h2, h3, h4{
   font-family: monospace;
 }
 span {
-  font-family:monospace, cursive;
-  font-size: 16;
-  font-weight: bold;
+  font-family: monospace;
+  font-size: 17;
   color: white;
-  
-  
 }
 p {
   font-family:monospace;
@@ -50,7 +47,7 @@ p {
 
 a {
   color: white;
-}}
+}
 .btn-outline-light {
   border-radius: 20px;
   background-color: #33a6cc;
